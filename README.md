@@ -1,5 +1,5 @@
 # Tutorial_Python
-# Environment Setup for Data Science in Python
+# Data Science in Python
 
 
 
@@ -8,6 +8,20 @@
 The tutorial will heavily use Python.  It is not necessary to be an expert in Python coming into the course (that is what we will teach you!) but it is helpful to be familiar with its syntax.
 
 Not everyone knows Python. We provide resources here to get you situated with Python environment and to bring you up to speed with Python quickly.
+
+
+Step1-Intro-to-Python
+
+Step2-Intro-to-Numpy
+
+Step3-Intro-to-Scipy
+
+Step4-Intro-to-Pandas
+
+Step5-Intro-to-Matplotlib
+
+From Step1 - Step5, you will be able to learn five data scientist packages in Python.
+
 
 ## Install Python 3 and its modules
 ### Option 1: Install Anaconda (Recommended)
