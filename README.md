@@ -10,17 +10,17 @@ The tutorial will heavily use Python.  It is not necessary to be an expert in Py
 Not everyone knows Python. We provide resources here to get you situated with Python environment and to bring you up to speed with Python quickly.
 
 
-Step1-Intro-to-Python
+Step-1 Intro-to-Python
 
-Step2-Intro-to-Numpy
+Step-2 Numpy
 
-Step3-Intro-to-Scipy
+Step-3 Scipy
 
-Step4-Intro-to-Pandas
+Step-4 Pandas
 
-Step5-Intro-to-Matplotlib
+Step-5 Matplotlib
 
-From Step1 - Step5, you will be able to learn five data scientist packages in Python.
+From Step-1 to Step-5, will be able to learn five data scientist packages in Python.
 
 
 ## Install Python 3 and its modules
