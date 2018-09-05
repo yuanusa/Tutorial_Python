@@ -5,7 +5,7 @@
 
 ---
 
-The tutorial will heavily use Python.  It is not necessary to be an expert in Python coming into the course (that is what we will teach you!) but it is helpful to be familiar with its syntax.
+The tutorial will heavily use Python.  It is not necessary to be an expert in Python coming into the course but it is helpful to be familiar with its syntax.
 
 Not everyone knows Python. We provide resources here to get you situated with Python environment and to bring you up to speed with Python quickly.
 
